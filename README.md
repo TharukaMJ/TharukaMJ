@@ -2,12 +2,19 @@
  Engineering Student || From Sri lanka
 
 Email Me 👉 ✉️ tharukamj3@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
 🔭 I’m currently working on: electro static presipitator project
+
 🌱 I’m currently learning: java , micropython
+
 👯 I’m looking to collaborate on:Projects that use ESP32, Raspberry Pi, or automation systems
+
 🤔 I’m looking for help with: Optimizing automation workflows & sensor systems
+
 💬 Ask me about: Collaboration, Tech Support
+
 😄 Pronouns: MJ
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
